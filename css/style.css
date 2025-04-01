@@ -9,6 +9,7 @@ body{
     width: 100%;
     height: 100vh;
     background: linear-gradient(45deg, #e76e0c, #ebbe2a, #f51fea, #c50bc5,  #f41fea, #f0d01c, #e76e0c);
+    background-repeat: no-repeat;
     background-size: 400%;
     animation: bgAnimate 6s linear infinite;
 }
